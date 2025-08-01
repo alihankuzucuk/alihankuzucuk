@@ -334,14 +334,14 @@
          <tr>
             <tr>
                <td rowspan="6" align="center">
-                  <a href="https://ayvansaray.edu.tr/en-US" target="_blank" rel="noreferrer">
+                  <a href="https://www.topkapi.edu.tr/en-US" target="_blank" rel="noreferrer">
                      <img src="./assets/education/ayvansaray_university.png" alt="ayvansaray_university" width="100" height="100"/>
                   </a>
                </td>
             </tr>
             <tr>
                <td colspan="3" align="left">
-                  <a href="https://ayvansaray.edu.tr/en-US" target="_blank" rel="noreferrer">
+                  <a href="https://www.topkapi.edu.tr/en-US" target="_blank" rel="noreferrer">
                      Istanbul Ayvansaray University
                   </a>
                </td>
