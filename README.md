@@ -8,7 +8,7 @@
       <img src="https://img.shields.io/github/followers/alihankuzucuk.svg?style=flat&label=Follow%20@alihankuzucuk%20on%20GitHub">
    </a>
    <h1 align="center" style="color:#2563EB; font-weight:bold;">
-      <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&duration=2000&pause=1000&color=2563EB&center=true&vCenter=true&width=600&lines=Hi+%F0%9F%91%8B%2C+I%27m+Alihan+KUZUCUK;Backend+Developer%20from%20Istanbul;Visit+alihankuzucuk.com+for+more+detail"/>
+      <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&duration=2000&pause=1000&color=2563EB&center=true&vCenter=true&width=600&lines=Hi+%F0%9F%91%8B%2C+I%27m+Alihan+KUZUCUK;Backend+Developer%20from%20Istanbul;Visit+alihankuzucuk.com+for+more+detail;%F0%9F%93%A7+mail@alihankuzucuk.com"/>
    </h1>
 </div>
 
