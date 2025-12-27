@@ -130,7 +130,7 @@
                <td colspan="2" align="left">
                   <b>Location Type: </b>Hybrid
                </td>
-               <td align="left">March 2025</td>
+               <td align="left">June 2025</td>
             </tr>
          </tr>
          <tr><td colspan="4"></td></tr>
@@ -544,7 +544,7 @@
          <b>Contributions & Streaks</b>
       </summary>
       <br>
-      <img src="https://github-readme-streak-stats.herokuapp.com?user=alihankuzucuk&theme=dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&background=1A2B34" />
+      <img src="https://github-readme-streak-stats.herokuapp.com?user=alihankuzucuk&theme=dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" />
    </details>
    <details>
       <summary>
@@ -558,21 +558,21 @@
          <b>Statistics</b>
       </summary>
       <br>
-      <img src="https://github-readme-stats.vercel.app/api?username=alihankuzucuk&show_icons=true&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34&hide_border=true" />
+      <img src="https://readme-stats-fabio-vicente.vercel.app/api?username=alihankuzucuk&count_private=true&show_icons=true&theme=dracula" />
    </details>
    <details>
       <summary>
          <b>Most Used Languages</b>
       </summary>
       <br>
-      <img src="https://github-readme-stats.vercel.app/api/top-langs?username=alihankuzucuk&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34&hide_border=true" />
+      <img src="https://readme-stats-fabio-vicente.vercel.app/api/top-langs?username=alihankuzucuk&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34&hide_border=true" />
    </details>
    <details>
       <summary>
          <b>Trophies</b>
       </summary>
       <br>
-      <img src="https://github-profile-trophy.vercel.app/?username=alihankuzucuk&theme=onedark&no-frame=true" />
+      <img src="https://github-trophies.vercel.app/?username=alihankuzucuk&theme=onedark&no-frame=true" />
    </details>
 </details>
 
