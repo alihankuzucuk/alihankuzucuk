@@ -5,26 +5,30 @@
       <a href="https://alihankuzucuk.com">
          <img src="https://visitor-badge.laobi.icu/badge?page_id=alihankuzucuk&left_text=GitHub%20Visitors&left_color=red&right_color=green">
       </a>
-      <a href="https://alihankuzucuk.com">
+      <a href="https://github.com/alihankuzucuk">
          <img src="https://img.shields.io/github/followers/alihankuzucuk.svg?style=flat&label=Follow%20@alihankuzucuk%20on%20GitHub">
       </a>
    </span>
-   <br>
+   <br><br>
    <span>
       <img src="https://img.shields.io/badge/Location-Istanbul%2C%20Turkey-blue?style=flat">
       <img src="https://img.shields.io/badge/Timezone-GMT%2B3-blue?style=flat">
       <img src="https://img.shields.io/badge/Status-Always%20Coding-green?style=flat">
    </span>
-   <br>
+   <br><br>
    <span>
       <a href="https://alihankuzucuk.com">
          <img src="https://img.shields.io/badge/Website-alihankuzucuk.com-blue?style=flat">
       </a>
+      <a href="mailto:mail@alihankuzucuk.com">
+         <img src="https://img.shields.io/badge/Mail-mail@alihankuzucuk.com-blue?style=flat">
+      </a>
    </span>
+   <br><br>
    <a href="https://alihankuzucuk.com">
-      <h1 align="center" style="color:#2563EB; font-weight:bold;">
+      <span align="center">
          <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&duration=2000&pause=1000&color=2563EB&center=true&vCenter=true&width=600&lines=Hi+%F0%9F%91%8B%2C+I%27m+Alihan+KUZUCUK;Backend+Developer%20from%20Istanbul;Visit+alihankuzucuk.com+for+more+detail;%F0%9F%93%A7+mail@alihankuzucuk.com"/>
-      </h1>
+      </span>
    </a>
 </div>
 
@@ -80,20 +84,20 @@
          <a href="https://linkedin.com/in/alihankuzucuk">
             <img src="https://img.shields.io/badge/LinkedIn-@alihankuzucuk-blue?logo=linkedin">
          </a>
+         <a href="https://www.youtube.com/@alihankzck">
+            <img src="https://img.shields.io/badge/YouTube-@alihankzck-blue?logo=youtube">
+         </a>
          <a href="https://x.com/alihankzck">
             <img src="https://img.shields.io/badge/X-@alihankzck-blue?logo=x">
          </a>
          <a href="https://instagram.com/alihankzck">
             <img src="https://img.shields.io/badge/Instagram-@alihankzck-blue?logo=instagram">
          </a>
-         <a href="https://www.snapchat.com/@alihankzck">
-            <img src="https://img.shields.io/badge/Snapchat-@alihankzck-blue?logo=snapchat">
-         </a>
       </div>
       <br>
       <div align="center">
-         <a href="https://www.youtube.com/@alihankzck">
-            <img src="https://img.shields.io/badge/YouTube-@alihankzck-blue?logo=youtube">
+         <a href="https://www.snapchat.com/@alihankzck">
+            <img src="https://img.shields.io/badge/Snapchat-@alihankzck-blue?logo=snapchat">
          </a>
          <a href="https://alihankuzucuk.medium.com">
             <img src="https://img.shields.io/badge/Medium-@alihankuzucuk-blue?logo=medium">
